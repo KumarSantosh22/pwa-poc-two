@@ -55,5 +55,8 @@
       "type": "image/png",
       "purpose": "maskable any"
     }
-  ]
+  ],
+  "description": "PWA POC",
+  "dir": "ltr",
+  "orientation": "portrait"
 }
